@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPI2_MISO Pin=J6-1
+Removed Pin From Net: NetName=SPI2_MOSI Pin=J6-2
+Added Pin To Net: NetName=SPI2_MOSI Pin=J6-1
+Added Pin To Net: NetName=SPI2_MISO Pin=J6-2

@@ -1,0 +1,48 @@
+Added Component: Designator=CN1(TF)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(0603P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=M3V3 Pin=C3-2
+Added Pin To Net: NetName=M3V3 Pin=C4-2
+Added Pin To Net: NetName=M3V3 Pin=C5-2
+Added Pin To Net: NetName=M3V3 Pin=C7-1
+Added Pin To Net: NetName=M3V3 Pin=C8-2
+Added Pin To Net: NetName=SDIO_D2 Pin=CN1-1
+Added Pin To Net: NetName=SDIO_D3 Pin=CN1-2
+Added Pin To Net: NetName=SDIO_CMD Pin=CN1-3
+Added Pin To Net: NetName=M3V3 Pin=CN1-4
+Added Pin To Net: NetName=SDIO_CK Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Pin To Net: NetName=SDIO_D0 Pin=CN1-7
+Added Pin To Net: NetName=SDIO_D1 Pin=CN1-8
+Added Pin To Net: NetName=SDIO_D2 Pin=R8-1
+Added Pin To Net: NetName=M3V3 Pin=R8-2
+Added Pin To Net: NetName=SDIO_D3 Pin=R9-1
+Added Pin To Net: NetName=M3V3 Pin=R9-2
+Added Pin To Net: NetName=SDIO_CMD Pin=R10-1
+Added Pin To Net: NetName=M3V3 Pin=R10-2
+Added Pin To Net: NetName=SDIO_CK Pin=R11-1
+Added Pin To Net: NetName=M3V3 Pin=R11-2
+Added Pin To Net: NetName=SDIO_D0 Pin=R12-1
+Added Pin To Net: NetName=M3V3 Pin=R12-2
+Added Pin To Net: NetName=SDIO_D1 Pin=R13-1
+Added Pin To Net: NetName=M3V3 Pin=R13-2
+Added Pin To Net: NetName=M3V3 Pin=U1-13
+Added Pin To Net: NetName=M3V3 Pin=U2-1
+Added Pin To Net: NetName=M3V3 Pin=U2-8
+Added Pin To Net: NetName=M3V3 Pin=U2-13
+Added Pin To Net: NetName=M3V3 Pin=U3-1
+Added Class: Name=imu
+Added Class: Name=mcu
+Added Room: Name=imu
+Added Room: Name=mcu
